@@ -3,6 +3,10 @@
 An AI-powered platform for conducting seamless and proctored online interviews, making recruitment smarter and faster. Leverage Gemini AI for question generation and advanced features like voice-to-text transcription, all while maintaining high data security. 🚀
 
 ---
+![Next.js](https://img.shields.io/badge/Next.js-12.0.0-blue.svg)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14.0-green.svg)
+![Gemini AI](https://img.shields.io/badge/Gemini%20AI-Integrated-orange.svg)
+![Clerk Authentication](https://img.shields.io/badge/Authentication-Clerk-brightgreen.svg)
 
 ## 🌟 Features  
 
