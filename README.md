@@ -9,7 +9,7 @@ An AI-powered platform for conducting seamless and proctored online interviews, 
 ![Clerk Authentication](https://img.shields.io/badge/Authentication-Clerk-brightgreen.svg)
 
 <div align="center">
-  <img height="300" src="https://github.com/Raryan-23/AI-interview-app/blob/main/AI-Interview-2024-12-10-120849.png"  />
+  <img height="800" width="400" src="https://github.com/Raryan-23/AI-interview-app/blob/main/AI-Interview-2024-12-10-120849.png"  />
 </div>
 
 ## 🌟 Features  
