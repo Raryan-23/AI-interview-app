@@ -8,6 +8,10 @@ An AI-powered platform for conducting seamless and proctored online interviews, 
 ![Gemini AI](https://img.shields.io/badge/Gemini%20AI-Integrated-orange.svg)
 ![Clerk Authentication](https://img.shields.io/badge/Authentication-Clerk-brightgreen.svg)
 
+<div align="center">
+  <img height="300" src="https://github.com/wrk16/AI-LMS-App/blob/main/Screenshot%202024-12-10%20165528.png"  />
+</div>
+
 ## 🌟 Features  
 
 - **AI-Driven Interviewing**: Uses Gemini AI to dynamically generate interview questions.  
